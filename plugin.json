@@ -1,0 +1,19 @@
+{
+  "name": "siyuan-task-agenda",
+  "author": "JUDESTRAHM",
+  "url": "https://github.com/JUDESTRAHM/siyuan-task-agenda",
+  "version": "0.1.0",
+  "minAppVersion": "3.0.0",
+  "backends": ["all"],
+  "frontends": ["all"],
+  "displayName": { "default": "Task Agenda: Due Dates & Recurring", "zh_CN": "任务日程：截止日期与重复" },
+  "description": {
+    "default": "See overdue, today and upcoming tasks across all notebooks, read from dates you type in task items. Pro: recurring tasks and calendar export.",
+    "zh_CN": "从任务项中直接写的日期读取，汇总所有笔记本中已逾期、今天和即将到期的任务。Pro：重复任务与日历导出。"
+  },
+  "readme": { "default": "README.md", "zh_CN": "README_zh_CN.md" },
+  "funding": { "custom": ["https://sd-start.judestrahm.workers.dev/gx/sy/checkout?plugin=siyuan-task-agenda"] },
+  "keywords": ["tasks", "todo", "agenda", "due date", "overdue", "recurring", "calendar", "任务", "待办", "截止日期", "日程", "重复任务"],
+  "icon": "icon.png",
+  "preview": "preview.png"
+}
