@@ -1,0 +1,1 @@
+{"name":"siyuan-task-agenda","version":"0.2.0","private":true,"scripts":{"build":"node build.mjs","test":"node --test test/core.test.mjs test/plugin.smoke.mjs test/license.test.mjs"},"license":"MIT","dependencies":{"tweetnacl":"^1.0.3"},"devDependencies":{"esbuild":"^0.28.2"}}
